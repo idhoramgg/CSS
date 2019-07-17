@@ -1,0 +1,31 @@
+
+.kotak {
+    position: relative;
+    background-color: orange;
+}
+
+.belajar2 {
+    position: absolute;   
+    background-color: blue;
+}
+
+div {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.stic {
+    background-color: antiquewhite;
+    position: sticky;
+    top: 40px;
+    
+}
+
+.fix {
+    background-color: aquamarine;
+    position: fixed;
+    top: 40px;
+    left: 80px;
+}
